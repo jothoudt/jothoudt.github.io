@@ -12,3 +12,6 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0, 0, 0, 0.1)
 }
+p {
+  font-style: italic;
+}
